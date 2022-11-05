@@ -1,0 +1,239 @@
+<mjml>
+   <mj-head>
+      <mj-title>Vuori Transactional Email</mj-title>
+
+      <mj-style>
+         @media screen and  ( min width: 480px) {
+           
+         }
+      </mj-style>
+
+   </mj-head>
+
+   <mj-body background-color="#f3f3f3">
+   <!-- Start Code -->
+
+
+   <mj-wrapper background-color="#ffffff" >
+      
+      <mj-section background-color="#ffffff" padding="0" >
+         <mj-column width="40%" padding-top="20px" padding-bottom="20px">
+            <mj-image src="https://i.ibb.co/jJ9Js7P/logo.jpg" alt="vuori logo" padding="0" align="center"  align="center" padding="0"/>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#ffffff" padding="0">
+        <mj-group width="100%" >
+         <mj-column padding-top="15px">
+            <mj-text font-size="12px" color="#545454" align="center" font-family="Helvetica, Arial, sans-serif" align="center">
+                <a href="www.example.com" style="color:#545454; text-decoration:none;">MEN</a>
+            </mj-text>
+         </mj-column>
+         <mj-column padding-top="15px">
+            <mj-text font-size="12px" color="#545454" align="center" font-family="Helvetica, Arial, sans-serif" align="center">
+                <a href="www.example.com" style="color:#545454; text-decoration:none;">WOMEN</a>
+            </mj-text>
+         </mj-column>
+         <mj-column padding-top="15px">
+            <mj-text font-size="12px" color="#545454" align="center" font-family="Helvetica, Arial, sans-serif" align="center">
+               <a href="www.example.com" style="color:#545454; text-decoration:none;">ABOUT</a>
+            </mj-text>
+         </mj-column>
+        </mj-group>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-style="solid" border-color="#cccccc" padding="0" />
+      </mj-column>
+    </mj-section>
+
+     <mj-section>
+      <mj-column>
+         <mj-text font-size="12px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a">
+            Order #: 6500500 | Order date: Sep 25, 2022
+         </mj-text>
+         <mj-text font-size="26px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left">
+            Your New Favourites Have Been <br> Delivered
+         </mj-text>
+         <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left">
+            Adventure awaits at your doorstep.
+         </mj-text>
+         <mj-spacer height="15px" />
+         <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left">
+            We're here to motivate your pursuit of happiness. From high performance goals to relaxing in comfort -- we know you'll love the effortless versatility of your new gear.
+         </mj-text>
+         <mj-button  padding-top="10px" padding-bottom="10px" background-color="#5a5a5a" color="#ffffff" align="left" inner-padding="5px 20px" href="#">
+            SEE ORDER DETAILS
+         </mj-button>
+      </mj-column>
+     </mj-section>
+
+     <mj-section padding="0">
+      <mj-column>
+         <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left" padding="0" padding-left="30px">
+            In This Package
+         </mj-text>
+         </mj-column>
+     </mj-section>
+
+       <mj-section padding="0" background-color="#ffffff">
+         <mj-column width="100%" padding="0">
+            <mj-divider border-width="1px" border-style="solid" border-color="#cccccc"  />
+         </mj-column>
+    </mj-section>
+
+      <!-- Product section -->
+      <mj-section>
+      <mj-group>
+         <mj-column width="30%" padding-top="0" padding-bottom="0" padding-left="30px">
+            <mj-image src="https://i.ibb.co/Q9QJwy5/blacj-Short.jpg" alt="hoodie"    padding="0" align="left" height="110px"/>
+         </mj-column>
+         <mj-column padding-top="0" padding-bottom="0" padding-right="0" padding-left="0" css-class="padding">
+            <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left" line-height="20px">
+               <strong>Kore Short</strong> <br>
+               <strong>Color:</strong> Black  <br>
+               <strong>Size: L</strong> <br>
+               <strong>Quantity:</strong> 1
+            </mj-text>
+         </mj-column>
+       </mj-group>
+      </mj-section>
+
+      <mj-section>
+      <mj-group>
+         <mj-column width="30%" padding-top="0" padding-bottom="0" padding-left="30px">
+            <mj-image src="https://i.ibb.co/Q9QJwy5/blacj-Short.jpg" alt="hoodie"    padding="0" align="left" height="110px"/>
+         </mj-column>
+         <mj-column padding-top="0" padding-bottom="0" padding-right="0" padding-left="0" css-class="padding">
+            <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left" line-height="20px">
+               <strong>Kore Short</strong> <br>
+               <strong>Color:</strong> Black  <br>
+               <strong>Size: L</strong> <br>
+               <strong>Quantity:</strong> 1
+            </mj-text>
+         </mj-column>
+       </mj-group>
+      </mj-section>
+
+      <mj-section>
+      <mj-group>
+         <mj-column width="30%" padding-top="0" padding-bottom="0" padding-left="30px">
+            <mj-image src="https://i.ibb.co/Q9QJwy5/blacj-Short.jpg" alt="hoodie"    padding="0" align="left" height="110px"/>
+         </mj-column>
+         <mj-column padding-top="0" padding-bottom="0" padding-right="0" padding-left="0" css-class="padding">
+            <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left" line-height="20px">
+               <strong>Kore Short</strong> <br>
+               <strong>Color:</strong> Black  <br>
+               <strong>Size: L</strong> <br>
+               <strong>Quantity:</strong> 1
+            </mj-text>
+         </mj-column>
+       </mj-group>
+      </mj-section>
+
+      <mj-section>
+         <mj-column>
+            <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="left" padding="0" padding-left="30px">
+            More Styles We Think You'll Love
+         </mj-text>
+         </mj-column>
+      </mj-section>
+
+       <mj-section padding="0" background-color="#ffffff">
+         <mj-column width="100%" padding="0">
+            <mj-divider border-width="1px" border-style="solid" border-color="#cccccc"  />
+         </mj-column>
+       </mj-section>
+  <!-- four-columns section -->
+     <mj-section padding-bottom="20px" padding-left="10px" padding="10px">
+      <mj-group width="100%">
+         <mj-column width="25%" padding-top="0" padding-bottom="0" padding-bottom="0" padding-left="0" padding-right="0">
+            <mj-image src="https://i.ibb.co/1MM1k8m/button-Greywhite.jpg.jpg" alt="hoodie"    padding="0" align="center" width="110px"/>
+         </mj-column>
+         <mj-column width="25%" padding-top="0" padding-bottom="0" padding-bottom="0" padding-left="0" padding-right="0">
+            <mj-image src="https://i.ibb.co/1MM1k8m/button-Greywhite.jpg" alt="hoodie"    padding="0" align="center" width="110px"/>
+         </mj-column>
+         <mj-column width="25%" padding-top="0" padding-bottom="0" padding-bottom="0" padding-left="0" padding-right="0">
+            <mj-image src="https://i.ibb.co/1MM1k8m/button-Greywhite.jpg" alt="hoodie"    padding="0" align="center" width="110px"/>
+         </mj-column>
+         <mj-column width="25%" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0">
+            <mj-image src="https://i.ibb.co/1MM1k8m/button-Greywhite.jpg" alt="hoodie"    padding="0" align="center" width="110px"/>
+         </mj-column>
+       
+         
+       </mj-group>
+      </mj-section>
+
+      <mj-section>
+         <mj-column border="1px solid #cccccc" padding-top="30px" padding-bottom="30px" padding-left="25px" padding-right="25px" width="550px">
+            <mj-text font-size="15px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="center" padding="0" align="center" padding-bottom="20px">
+               Can't Find Your Order?
+            </mj-text>
+             <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a"  padding="0" align="center" line-height="20px" padding-bottom="10px">
+               As part of our Investment in Happiness, our Customer Service team is here to help anwer any questions or concerns.
+            </mj-text>
+             <mj-text font-size="13px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" padding="0" align="center">
+               <a href="#" target="_blank" style="color:#5a5a5a;">CONTACT US</a>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <!-- Gallery images -->
+      <mj-section padding-top="10px" padding-bottom="20px" padding-left="0" padding-right="0">
+         <mj-group>
+            <mj-column  padding="0px">
+               <mj-image src="https://i.ibb.co/ZBhbcjN/give-twenty.jpg" alt="man running" href="#" padding-top="0" padding-bottom="0" padding-left="20px" padding-right="10px"/>
+            </mj-column>
+            <mj-column  padding="0px">
+               <mj-image src="https://i.ibb.co/L62x9Fh/returns.jpg" alt="man running" href="#"  padding-top="0" padding-bottom="0" padding-left="10px" padding-right="20px"/>
+            </mj-column>
+         </mj-group>
+      </mj-section>
+
+      <mj-section padding="0">
+          <mj-group>
+            <mj-column  padding="0px">
+               <mj-image src="https://i.ibb.co/fqxJZ75/faq.jpg" alt="man running" href="#" padding-top="0" padding-bottom="0" padding-left="20px" padding-right="10px"/>
+            </mj-column>
+            <mj-column  padding="0px">
+               <mj-image src="https://i.ibb.co/84vPqt7/shop-now.jpg" alt="man running" href="#"  padding-top="0" padding-bottom="0" padding-left="10px" padding-right="20px"/>
+            </mj-column>
+         </mj-group>
+      </mj-section>
+
+      <!-- Footer -->
+      <mj-section  padding-top="20px" padding-bottom="10px" padding-left="0px" padding-right="0px">
+         <mj-column>
+            <mj-text font-size="11px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" padding="0" align="center">
+               2022 Vuori Clothing
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section padding="0" background-color="#ffffff">
+         <mj-column width="100%" padding="0">
+            <mj-divider border-width="1px" border-style="solid" border-color="#cccccc"  />
+         </mj-column>
+    </mj-section>
+
+    <mj-section padding-bottom="10px" padding-top="0">
+     <mj-group>
+      <mj-column width="25%">
+         <mj-image src="https://i.ibb.co/nQ7N7pp/footer-logo.png" alt="narvar logo" align="center" width="150px" />
+      </mj-column>
+      <mj-column width="75%">
+         <mj-text font-size="9px" font-family="Helvetica, Arial, sans-serif" color="#5a5a5a" align="right">
+            <a href="#" style="color:#5a5a5a; text-decoration:none;">Privacy Policy</a>
+         </mj-text>
+      </mj-column>
+     </mj-group>
+    </mj-section>
+
+  </mj-wrapper>
+
+
+
+      <!-- End Code -->
+   </mj-body>
+</mjml>
